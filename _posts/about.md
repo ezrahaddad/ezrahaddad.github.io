@@ -2,10 +2,8 @@
 ---
 layout: page
 title: "Another test page for projects."
-categories:
-- about
-tags:
-- tag one
+categories:- about
+tags: - tag one
 ---
 
 
