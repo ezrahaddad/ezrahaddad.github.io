@@ -3,7 +3,7 @@ layout: post
 title: "Check me out!"
 date: 2015-08-03 00:00:00
 categories: [about]
-tags:
+tags: -
 
 ---
 
