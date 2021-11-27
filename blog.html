@@ -1,9 +1,9 @@
 ---
 layout: page
-title: blog
+title: research
 ---
 
-{% for post in site.categories.blog %}
+{% for post in site.categories.research %}
   <div class="post-block">
   <a class="post-date" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
   <h2 class="highlight"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
