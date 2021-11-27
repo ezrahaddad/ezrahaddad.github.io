@@ -3,7 +3,7 @@
 layout: page
 title: "Another test page for projects."
 categories:
-- projects
+- about
 tags:
 - tag one
 ---
