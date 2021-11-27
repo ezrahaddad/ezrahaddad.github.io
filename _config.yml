@@ -1,11 +1,11 @@
 # Title and description will feature on the site!
-title: your cool blog
-description: It has a lot going on.
+title: Ezra Haddad
+description: "ETH Zürich"
 baseurl: "" # The site subpath -- for example, "/blog"
 url: "" # http://example.com for example.
 
 # Want to give people your email?
-email: test@test.com
+email: ehaddad@student.ethz.ch
 
 # Enter your GitHub username.
 github: test
