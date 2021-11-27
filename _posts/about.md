@@ -1,10 +1,12 @@
----
-layout: post
-title: "Check me out!"
-date: 2015-08-03 00:00:00
-categories: [about]
-tags: -
 
 ---
+layout: page
+title: "Another test page for projects."
+categories:
+- projects
+tags:
+- tag one
+---
+
 
 I'm a masters student in Applied Mathematics at the Swiss Federal Institute of Technology, Zürich(ETHZ).
