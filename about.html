@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-{% for post in site.categories.blog %}
+{% for post in site.categories.about %}
   <div class="post-block">
   <a class="post-date" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
   <h2 class="highlight"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
